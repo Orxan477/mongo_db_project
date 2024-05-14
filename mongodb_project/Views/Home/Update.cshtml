@@ -1,0 +1,30 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Istifadəçini yenilə";
+}
+
+<div class="card-body">
+    <h5 class="card-title fw-semibold mb-4">Istifadəçini yenilə</h5>
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Update">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label">Ad</label>
+                    <input asp-for="Name" class="form-control" aria-describedby="emailHelp">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" aria-describedby="emailHelp">
+                    <span class="text-danger" asp-validation-for="Email"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Təsdiqlə</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@* @section ValidatorScript {
+    <partial name="_ValidationScriptsPartial" />
+} *@
