@@ -2,6 +2,7 @@
 using MongoDB.Bson;
 using MongoDB.Driver;
 using mongodb_project.Models;
+using mongodb_project.VM;
 
 namespace mongodb_project.Controllers
 {
@@ -16,13 +17,16 @@ namespace mongodb_project.Controllers
         }
         public IActionResult Index()
         {
-            var userList = _event.Find(ev => !ev.Isdeleted && ev.Date>= DateTime.UtcNow.AddHours(4)).ToList();
-
-            return View(userList);
+            HomeVM homeVM = new HomeVM()
+            {
+                Event = _event.Find(ev => !ev.Isdeleted && ev.Date >= DateTime.UtcNow.AddHours(4)).ToList(),
+            };
+            return View(homeVM);
         }
         [HttpGet]
         public IActionResult Create()
         {
+            ViewBag.Date= DateTime.UtcNow.AddHours(4);
             return View();
         }
         [HttpPost]
@@ -31,12 +35,13 @@ namespace mongodb_project.Controllers
             ev.CreatedDate = DateTime.UtcNow.AddHours(4);
             _event.InsertOne(ev);
 
-            return Ok("Event created successfully.");
+            return RedirectToAction("Index");
         }
         [HttpGet]
         public IActionResult Update(string id)
         {
-            return View();
+            var ev = _event.Find(ev => !ev.Isdeleted && ev.Id.ToString() == id).FirstOrDefault();
+            return View(ev);
         }
         [HttpPost]
         public IActionResult Update(string id, Event ev)
@@ -66,14 +71,14 @@ namespace mongodb_project.Controllers
 
             if (result.ModifiedCount == 1)
             {
-                return Ok("Event updated successfully.");
+                return RedirectToAction("Index");
             }
             else
             {
                 return NotFound("Event not found or not updated.");
             }
         }
-        [HttpPost]
+        //[HttpPost]
         public IActionResult Delete(string id)
         {
             ObjectId objectId;
@@ -93,12 +98,37 @@ namespace mongodb_project.Controllers
 
             if (result.ModifiedCount == 1)
             {
-                return Ok("Event deleted successfully.");
+                return RedirectToAction("Index");        
             }
             else
             {
                 return NotFound("Event not found or not deleted.");
             }
+        }
+        public IActionResult Filter(HomeVM home)
+        {
+            var startDate = home.DateTime.Date;
+            var endDate = startDate.AddDays(1);
+
+            var filter = Builders<Event>.Filter.And(
+       Builders<Event>.Filter.Eq(ev => ev.Isdeleted, false),
+       Builders<Event>.Filter.Or(
+           Builders<Event>.Filter.Gte(ev => ev.Date, startDate) & Builders<Event>.Filter.Lt(ev => ev.Date, endDate),
+           Builders<Event>.Filter.Eq(ev => ev.Name, home.search)
+       )
+   );
+
+            List<Event> events = _event.Find(filter).SortByDescending(ev => ev.CreatedDate).ToList();
+
+            HomeVM homeVM = new HomeVM()
+            {
+                Event = events
+            };
+
+         //   return Json( homeVM);
+            //ViewBag.Date = DateTime.UtcNow.AddHours(4);
+            //return Json(userList);
+            return View("Index",homeVM);
         }
     }
 }

@@ -1,25 +1,28 @@
-﻿
+﻿@model Event
+
 @{
-    ViewData["Title"] = "Istifadəçi yenilə";
+    ViewData["Title"] = "Tədbiri yenilə";
 }
 
 <div class="card-body">
-    <h5 class="card-title fw-semibold mb-4">Istifadəçi yenilə</h5>
+    <h5 class="card-title fw-semibold mb-4">Tədbiri yenilə</h5>
     <div class="card">
         <div class="card-body">
-            <form>
+            <form asp-action="Update">
                 <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                    <label asp-for="Name" class="form-label">Ad</label>
+                    <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span class="text-danger" asp-validation-for="Name"></span>
                 </div>
                 <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="exampleInputPassword1">
+                    <label asp-for="Description" class="form-label">Haqqında</label>
+                    <input asp-for="Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span class="text-danger" asp-validation-for="Description"></span>
                 </div>
-                <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                <div class="mb-3">
+                    <label asp-for="Date" class="form-label">Haqqında</label>
+                    <input asp-for="Date" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span class="text-danger" asp-validation-for="Date"></span>
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
