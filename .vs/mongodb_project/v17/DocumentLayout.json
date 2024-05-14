@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\shared\\components\\aside\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\shared\\components\\aside\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
+              "RelativeDocumentMoniker": "mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
+              "RelativeToolTip": "mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:30:37.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Update.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Event\\Update.cshtml",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Create.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Event\\Create.cshtml",
@@ -84,33 +101,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Index.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Event\\Index.cshtml",
               "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Index.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Event\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-14T15:02:48.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "mongodb_project\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs*",
-              "RelativeToolTip": "mongodb_project\\Controllers\\EventController.cs*",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAAwG8AAAAAAAAA",
+              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs",
+              "RelativeToolTip": "mongodb_project\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAwHAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T15:01:35.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\VM\\HomeVM.cs",
               "RelativeDocumentMoniker": "mongodb_project\\VM\\HomeVM.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Update.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Home\\Update.cshtml",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Shared\\_Layout.cshtml",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Home\\Create.cshtml",
@@ -161,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Home\\Index.cshtml",
@@ -174,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "mongodb_project\\Controllers\\HomeController.cs",
