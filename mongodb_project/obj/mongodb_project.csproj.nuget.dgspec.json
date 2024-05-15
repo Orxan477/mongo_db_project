@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tural\\OneDrive\\Masaüstü\\mongo_db_project\\mongodb_project\\mongodb_project.csproj": {}
+    "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\mongodb_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tural\\OneDrive\\Masaüstü\\mongo_db_project\\mongodb_project\\mongodb_project.csproj": {
+    "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\mongodb_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tural\\OneDrive\\Masaüstü\\mongo_db_project\\mongodb_project\\mongodb_project.csproj",
+        "projectUniqueName": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\mongodb_project.csproj",
         "projectName": "mongodb_project",
-        "projectPath": "C:\\Users\\tural\\OneDrive\\Masaüstü\\mongo_db_project\\mongodb_project\\mongodb_project.csproj",
-        "packagesPath": "C:\\Users\\tural\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tural\\OneDrive\\Masaüstü\\mongo_db_project\\mongodb_project\\obj\\",
+        "projectPath": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\mongodb_project.csproj",
+        "packagesPath": "C:\\Users\\orxan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tural\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\orxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

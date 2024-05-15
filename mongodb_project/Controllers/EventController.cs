@@ -114,7 +114,7 @@ namespace mongodb_project.Controllers
        Builders<Event>.Filter.Eq(ev => ev.Isdeleted, false),
        Builders<Event>.Filter.Or(
            Builders<Event>.Filter.Gte(ev => ev.Date, startDate) & Builders<Event>.Filter.Lt(ev => ev.Date, endDate),
-           Builders<Event>.Filter.Eq(ev => ev.Name, home.search)
+           Builders<Event>.Filter.Where(ev => ev.Name.Contains(home.search))
        )
    );
 

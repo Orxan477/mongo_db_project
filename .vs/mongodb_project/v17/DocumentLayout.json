@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\",
+  "WorkspaceRootPath": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\shared\\components\\aside\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\shared\\components\\aside\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\shared\\components\\aside\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\shared\\components\\aside\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\tural\\onedrive\\masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\vm\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\vm\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\vm\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|c:\\users\\orxan\\onedrive\\desktop\\mongo_db_project\\mongodb_project\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C42E7F0-71C2-4DF4-AAAD-66639BFBA6EC}|mongodb_project\\mongodb_project.csproj|solutionrelative:mongodb_project\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -54,19 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Shared\\Components\\Aside\\Default.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -77,50 +73,48 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Event\\Update.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Event\\Update.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Update.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Event\\Update.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Event\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T15:36:28.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:36:28.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Event\\Create.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Event\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Event\\Create.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Event\\Create.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T15:33:46.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:33:46.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Event\\Index.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Event\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Event\\Index.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Event\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABaAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-14T15:02:48.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "mongodb_project\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs",
-              "RelativeToolTip": "mongodb_project\\Controllers\\EventController.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAAwHAAAAAmAAAA",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Controllers\\EventController.cs*",
+              "RelativeToolTip": "mongodb_project\\Controllers\\EventController.cs*",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAwHQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T15:01:35.794Z",
               "EditorCaption": ""
@@ -129,22 +123,21 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\VM\\HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\VM\\HomeVM.cs",
               "RelativeDocumentMoniker": "mongodb_project\\VM\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\VM\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\VM\\HomeVM.cs",
               "RelativeToolTip": "mongodb_project\\VM\\HomeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:50:32.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:50:32.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Home\\Update.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Home\\Update.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Home\\Update.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Home\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -154,50 +147,47 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T13:21:12.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:21:12.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Home\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T13:18:36.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:18:36.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "mongodb_project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "mongodb_project\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T13:01:00.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:01:00.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "mongodb_project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tural\\OneDrive\\Masa\u00FCst\u00FC\\mongo_db_project\\mongodb_project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\orxan\\OneDrive\\Desktop\\mongo_db_project\\mongodb_project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "mongodb_project\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAAiAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwHIAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T13:00:57.391Z",
               "EditorCaption": ""

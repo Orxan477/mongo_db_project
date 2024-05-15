@@ -112,7 +112,7 @@ namespace mongodb_project.Controllers
         {
             HomeVM homeVM = new HomeVM()
             {
-                User = _user.Find(user => !user.Isdeleted && user.Name == home.search).SortByDescending(x => x.Date).ToList(),
+                User = _user.Find(user => !user.Isdeleted && user.Name.Contains(home.search)).SortByDescending(x => x.Date).ToList(),
             };
             //return Json(userList);
             return View("Index", homeVM);
